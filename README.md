@@ -4,4 +4,6 @@ Las AGEBS (Áreas Geoestadísticas Básicas) de 1990 presentan un desafío signi
 
 Para abordar este problema, el objetivo es ajustar los polígonos de 1990 para alinearlos con los polígonos de 2020. Este ajuste garantiza que los datos históricos sigan siendo relevantes y útiles para aplicaciones contemporáneas, permitiendo un análisis más preciso del desarrollo urbano y los cambios a lo largo del tiempo.
 
-![Original Polygons (1990)](media/matamoros_original.png)
+![Area of interest](media/pol_estudio.png){width="316"}
+
+Todo este proceso está explicado en el siguiente blog: https://www.manuelsolan-o.com/blogs/agebs_repro_en/
